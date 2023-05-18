@@ -1,11 +1,11 @@
-About u-msgpack-python
-======================
+About u-msgpack-python-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/u-msgpack-python-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/vsergeev/u-msgpack-python
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/u-msgpack-python-feedstock/blob/main/LICENSE.txt)
 
 Summary: A portable, lightweight MessagePack serializer and deserializer written in pure Python.
 
